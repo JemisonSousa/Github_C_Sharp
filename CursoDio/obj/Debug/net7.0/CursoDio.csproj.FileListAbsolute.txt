@@ -1,0 +1,30 @@
+C:\Users\jemis\Documents\Python Scripts\VS_Code_GitHub\C#\VS2022\CursoDio\bin\Debug\net7.0\CursoDio.exe
+C:\Users\jemis\Documents\Python Scripts\VS_Code_GitHub\C#\VS2022\CursoDio\bin\Debug\net7.0\CursoDio.deps.json
+C:\Users\jemis\Documents\Python Scripts\VS_Code_GitHub\C#\VS2022\CursoDio\bin\Debug\net7.0\CursoDio.runtimeconfig.json
+C:\Users\jemis\Documents\Python Scripts\VS_Code_GitHub\C#\VS2022\CursoDio\bin\Debug\net7.0\CursoDio.dll
+C:\Users\jemis\Documents\Python Scripts\VS_Code_GitHub\C#\VS2022\CursoDio\bin\Debug\net7.0\CursoDio.pdb
+C:\Users\jemis\Documents\Python Scripts\VS_Code_GitHub\C#\VS2022\CursoDio\obj\Debug\net7.0\CursoDio.csproj.AssemblyReference.cache
+C:\Users\jemis\Documents\Python Scripts\VS_Code_GitHub\C#\VS2022\CursoDio\obj\Debug\net7.0\CursoDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jemis\Documents\Python Scripts\VS_Code_GitHub\C#\VS2022\CursoDio\obj\Debug\net7.0\CursoDio.AssemblyInfoInputs.cache
+C:\Users\jemis\Documents\Python Scripts\VS_Code_GitHub\C#\VS2022\CursoDio\obj\Debug\net7.0\CursoDio.AssemblyInfo.cs
+C:\Users\jemis\Documents\Python Scripts\VS_Code_GitHub\C#\VS2022\CursoDio\obj\Debug\net7.0\CursoDio.csproj.CoreCompileInputs.cache
+C:\Users\jemis\Documents\Python Scripts\VS_Code_GitHub\C#\VS2022\CursoDio\obj\Debug\net7.0\CursoDio.dll
+C:\Users\jemis\Documents\Python Scripts\VS_Code_GitHub\C#\VS2022\CursoDio\obj\Debug\net7.0\refint\CursoDio.dll
+C:\Users\jemis\Documents\Python Scripts\VS_Code_GitHub\C#\VS2022\CursoDio\obj\Debug\net7.0\CursoDio.pdb
+C:\Users\jemis\Documents\Python Scripts\VS_Code_GitHub\C#\VS2022\CursoDio\obj\Debug\net7.0\CursoDio.genruntimeconfig.cache
+C:\Users\jemis\Documents\Python Scripts\VS_Code_GitHub\C#\VS2022\CursoDio\obj\Debug\net7.0\ref\CursoDio.dll
+C:\Users\jemis\Documents\VS_Code_GitHub\C#\CursoDio\bin\Debug\net7.0\CursoDio.exe
+C:\Users\jemis\Documents\VS_Code_GitHub\C#\CursoDio\bin\Debug\net7.0\CursoDio.deps.json
+C:\Users\jemis\Documents\VS_Code_GitHub\C#\CursoDio\bin\Debug\net7.0\CursoDio.runtimeconfig.json
+C:\Users\jemis\Documents\VS_Code_GitHub\C#\CursoDio\bin\Debug\net7.0\CursoDio.dll
+C:\Users\jemis\Documents\VS_Code_GitHub\C#\CursoDio\bin\Debug\net7.0\CursoDio.pdb
+C:\Users\jemis\Documents\VS_Code_GitHub\C#\CursoDio\obj\Debug\net7.0\CursoDio.csproj.AssemblyReference.cache
+C:\Users\jemis\Documents\VS_Code_GitHub\C#\CursoDio\obj\Debug\net7.0\CursoDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jemis\Documents\VS_Code_GitHub\C#\CursoDio\obj\Debug\net7.0\CursoDio.AssemblyInfoInputs.cache
+C:\Users\jemis\Documents\VS_Code_GitHub\C#\CursoDio\obj\Debug\net7.0\CursoDio.AssemblyInfo.cs
+C:\Users\jemis\Documents\VS_Code_GitHub\C#\CursoDio\obj\Debug\net7.0\CursoDio.csproj.CoreCompileInputs.cache
+C:\Users\jemis\Documents\VS_Code_GitHub\C#\CursoDio\obj\Debug\net7.0\CursoDio.dll
+C:\Users\jemis\Documents\VS_Code_GitHub\C#\CursoDio\obj\Debug\net7.0\refint\CursoDio.dll
+C:\Users\jemis\Documents\VS_Code_GitHub\C#\CursoDio\obj\Debug\net7.0\CursoDio.pdb
+C:\Users\jemis\Documents\VS_Code_GitHub\C#\CursoDio\obj\Debug\net7.0\CursoDio.genruntimeconfig.cache
+C:\Users\jemis\Documents\VS_Code_GitHub\C#\CursoDio\obj\Debug\net7.0\ref\CursoDio.dll

@@ -1,0 +1,5 @@
+C:\Users\jemis\Documents\VS_Code_GitHub\C#\CursoC#\Course\obj\Debug\net7.0\CursoCs.csproj.AssemblyReference.cache
+C:\Users\jemis\Documents\VS_Code_GitHub\C#\CursoC#\Course\obj\Debug\net7.0\CursoCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jemis\Documents\VS_Code_GitHub\C#\CursoC#\Course\obj\Debug\net7.0\CursoCs.AssemblyInfoInputs.cache
+C:\Users\jemis\Documents\VS_Code_GitHub\C#\CursoC#\Course\obj\Debug\net7.0\CursoCs.AssemblyInfo.cs
+C:\Users\jemis\Documents\VS_Code_GitHub\C#\CursoC#\Course\obj\Debug\net7.0\CursoCs.csproj.CoreCompileInputs.cache
