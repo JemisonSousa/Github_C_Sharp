@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wBc34AmWx9IlBIPE+30+dIeNO1Q4C+WkGU73WeYUpyCOj/eotfHuaTQjVDLZZqz+v421UMb91Fz6I6/HxTt+4w==",
+  "dgSpecHash": "DA9x2YVoyuE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jemis\\Documents\\VS_Code_GitHub\\C#\\CursoC#\\Course\\CursoCs.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/Github_C_Sharp/CursoC#/Course/CursoCs.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

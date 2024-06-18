@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/Github_C_Sharp/DesafioFundamentos/DesafioFundamentos.csproj": {}
+    "/workspaces/Github_C_Sharp/CursoC#/C_Sharp.csproj": {}
   },
   "projects": {
-    "/workspaces/Github_C_Sharp/DesafioFundamentos/DesafioFundamentos.csproj": {
+    "/workspaces/Github_C_Sharp/CursoC#/C_Sharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/Github_C_Sharp/DesafioFundamentos/DesafioFundamentos.csproj",
-        "projectName": "DesafioFundamentos",
-        "projectPath": "/workspaces/Github_C_Sharp/DesafioFundamentos/DesafioFundamentos.csproj",
+        "projectUniqueName": "/workspaces/Github_C_Sharp/CursoC#/C_Sharp.csproj",
+        "projectName": "C_Sharp",
+        "projectPath": "/workspaces/Github_C_Sharp/CursoC#/C_Sharp.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/Github_C_Sharp/DesafioFundamentos/obj/",
+        "outputPath": "/workspaces/Github_C_Sharp/CursoC#/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

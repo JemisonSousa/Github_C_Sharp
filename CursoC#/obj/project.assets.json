@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net6.0": []
   },
   "packageFolders": {
     "/home/codespace/.nuget/packages/": {}
@@ -13,24 +13,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/Github_C_Sharp/CursoC#/Course/CursoCs.csproj",
-      "projectName": "CursoCs",
-      "projectPath": "/workspaces/Github_C_Sharp/CursoC#/Course/CursoCs.csproj",
+      "projectUniqueName": "/workspaces/Github_C_Sharp/CursoC#/C_Sharp.csproj",
+      "projectName": "C_Sharp",
+      "projectPath": "/workspaces/Github_C_Sharp/CursoC#/C_Sharp.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/Github_C_Sharp/CursoC#/Course/obj/",
+      "outputPath": "/workspaces/Github_C_Sharp/CursoC#/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net6.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -46,8 +46,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
@@ -62,15 +62,15 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.20, 7.0.20]"
+            "version": "[6.0.31, 6.0.31]"
           },
           {
             "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[7.0.20, 7.0.20]"
+            "version": "[6.0.31, 6.0.31]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.20, 7.0.20]"
+            "version": "[6.0.31, 6.0.31]"
           }
         ],
         "frameworkReferences": {
