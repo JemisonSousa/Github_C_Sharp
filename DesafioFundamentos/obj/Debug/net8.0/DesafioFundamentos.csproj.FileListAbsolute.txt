@@ -1,0 +1,15 @@
+/workspaces/Github_C_Sharp/DesafioFundamentos/bin/Debug/net8.0/DesafioFundamentos
+/workspaces/Github_C_Sharp/DesafioFundamentos/bin/Debug/net8.0/DesafioFundamentos.deps.json
+/workspaces/Github_C_Sharp/DesafioFundamentos/bin/Debug/net8.0/DesafioFundamentos.runtimeconfig.json
+/workspaces/Github_C_Sharp/DesafioFundamentos/bin/Debug/net8.0/DesafioFundamentos.dll
+/workspaces/Github_C_Sharp/DesafioFundamentos/bin/Debug/net8.0/DesafioFundamentos.pdb
+/workspaces/Github_C_Sharp/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Github_C_Sharp/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.AssemblyInfoInputs.cache
+/workspaces/Github_C_Sharp/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.AssemblyInfo.cs
+/workspaces/Github_C_Sharp/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.csproj.CoreCompileInputs.cache
+/workspaces/Github_C_Sharp/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.sourcelink.json
+/workspaces/Github_C_Sharp/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.dll
+/workspaces/Github_C_Sharp/DesafioFundamentos/obj/Debug/net8.0/refint/DesafioFundamentos.dll
+/workspaces/Github_C_Sharp/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.pdb
+/workspaces/Github_C_Sharp/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.genruntimeconfig.cache
+/workspaces/Github_C_Sharp/DesafioFundamentos/obj/Debug/net8.0/ref/DesafioFundamentos.dll
